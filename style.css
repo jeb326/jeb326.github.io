@@ -28,6 +28,7 @@ background-color:#4CAF50;
 body {
     background-color: lightblue;
 }
+p.solid {border-style: solid;}
 
 
 
